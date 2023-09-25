@@ -1,0 +1,21 @@
+.pink-background,
+.fs-change {
+    background-color: #f7acb7;
+    font-family: 'Times New Roman', Verdana, sans-serif;
+}
+
+
+.fs-change {
+    font-size: 24px;
+}
+
+#blue-id {
+    color: rgb(15, 15, 179);
+    font-size: 36px;
+}
+
+#green-id {
+    background-color: rgb(128, 226, 128);
+    font-size: 24px;
+    font-weight: bold;
+}
